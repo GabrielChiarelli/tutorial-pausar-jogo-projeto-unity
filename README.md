@@ -1,4 +1,4 @@
- <h1>TUTORIAL: Como PAUSAR e DESPAUSAR o jogo na UnityY</h1>
+ <h1>TUTORIAL: Como PAUSAR e DESPAUSAR o jogo na Unity</h1>
 Nesse repositório você encontra o projeto (com todos os arquivos e código comentado) do nosso Tutorial "Como PAUSAR e DESPAUSAR o jogo na Unity | Tutorial passo a passo para Iniciantes", do meu canal no YouTube, Desenvolvendo Jogos.
 <br>
 <br>
